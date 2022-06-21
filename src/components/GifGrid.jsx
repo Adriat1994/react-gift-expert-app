@@ -20,7 +20,7 @@ export const GifGrid = ({category}) => {
                 {
                     images.map((image) => (
                         <GifItem 
-                            key={image.id}      //Usamos como key el id, porque el id es siempre unico
+                            key={image.id}      
                             title={image.title}
                             url={image.url}
                         /> 

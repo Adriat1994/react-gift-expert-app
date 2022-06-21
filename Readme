@@ -1,1 +1,7 @@
-npm run dev
+
+Después de clonar el proyecto, ejecutar el siguiente comando para instalar las dependencias:
+ - npm install
+
+
+Para iniciar el proyecto ejecutar el comando:
+  - npm run dev
