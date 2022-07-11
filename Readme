@@ -10,11 +10,11 @@ Después de clonar el proyecto, ejecutar el siguiente comando para instalar las 
 Para iniciar el proyecto ejecutar el comando:
   - npm run dev
 
-## URL para ver el resultado
+  ## URL para ver el resultado
 Para ver proyecto en directo puedes verlo aquí (https://adriat1994.github.io/react-gift-expert-app/)
 
 
-## Autor ✒️
+  ## Autor ✒️
 **Adrián Torres**
 * [Github](https://github.com/Adriat1994)
 * [Linkedin](https://www.linkedin.com/in/adri%C3%A1n-torres-serrano-a2519a141/)
