@@ -13,7 +13,7 @@ Para iniciar el proyecto ejecutar el comando:
   - npm run dev
 
   ## URL para ver el resultado
-Para ver proyecto en directo puedes verlo aquí (https://adriat1994.github.io/react-gift-expert-app/)
+Para ver el proyecto en directo puedes verlo aquí (https://adriat1994.github.io/react-gift-expert-app/)
 
 
   ## Autor ✒️
